@@ -1,2 +1,3 @@
 # python-programs
-learning python programming
+Hi All!
+I'm testing here python programs from The Python Bible training from Udemy
